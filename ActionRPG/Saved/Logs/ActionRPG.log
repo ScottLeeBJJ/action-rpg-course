@@ -1188,3 +1188,68 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.11-11.21.14:471][186]LogContentValidation: Display: Validating /Script/Engine.World /Game/DevWorld.DevWorld
 [2024.01.11-11.21.18:891][670]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.01.11-11.21.26:862][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.01.11-11.21.50:810][886]LogEditorViewport: Clicking Background
+[2024.01.11-11.22.04:644][361]LogEditorViewport: Clicking Background
+[2024.01.11-11.22.55:727][ 89]LogEditorViewport: Clicking Background
+[2024.01.11-11.23.18:081][886]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:29.253 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 15453 files in 18494 folders with total size 1040 MiB.
+[2024.01.11-11.23.19:133][ 10]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.01.11-11.23.19:246][ 11]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-11.23.21:118][208]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2024.01.11-11.23.21:119][208]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2024.01.11-11.23.21:120][208]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/DevWorld.DevWorld:PersistentLevel.SkyAtmosphere_0
+[2024.01.11-11.23.21:151][208]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/DevWorld.DevWorld:PersistentLevel.SkyAtmosphere_0
+[2024.01.11-11.23.21:494][231]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2024.01.11-11.23.21:495][231]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2024.01.11-11.23.21:530][231]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/DevWorld.DevWorld:PersistentLevel.SkyAtmosphere_1
+[2024.01.11-11.23.21:530][231]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/DevWorld.DevWorld:PersistentLevel.SkyAtmosphere_1
+[2024.01.11-11.23.27:857][933]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.01.11-11.23.27:857][933]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.01.11-11.23.27:858][933]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/DevWorld.DevWorld:PersistentLevel.SkyLight_0
+[2024.01.11-11.23.27:858][933]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/DevWorld.DevWorld:PersistentLevel.SkyLight_0
+[2024.01.11-11.23.28:914][ 48]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.01.11-11.23.28:914][ 48]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.01.11-11.23.28:915][ 48]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/DevWorld.DevWorld:PersistentLevel.SkyLight_1
+[2024.01.11-11.23.28:915][ 48]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/DevWorld.DevWorld:PersistentLevel.SkyLight_1
+[2024.01.11-11.23.33:351][538]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.01.11-11.23.33:351][538]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.01.11-11.23.33:352][538]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevWorld.DevWorld:PersistentLevel.DirectionalLight_0
+[2024.01.11-11.23.33:352][538]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevWorld.DevWorld:PersistentLevel.DirectionalLight_0
+[2024.01.11-11.23.34:214][628]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.01.11-11.23.34:214][628]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.01.11-11.23.34:215][628]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevWorld.DevWorld:PersistentLevel.DirectionalLight_1
+[2024.01.11-11.23.34:215][628]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevWorld.DevWorld:PersistentLevel.DirectionalLight_1
+[2024.01.11-11.23.35:206][726]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.01.11-11.23.35:206][726]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.01.11-11.23.35:206][726]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevWorld.DevWorld:PersistentLevel.DirectionalLight_2
+[2024.01.11-11.23.35:206][726]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevWorld.DevWorld:PersistentLevel.DirectionalLight_2
+[2024.01.11-11.23.35:220][728]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.01.11-11.23.36:740][900]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.01.11-11.23.36:740][900]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.01.11-11.23.36:741][900]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevWorld.DevWorld:PersistentLevel.DirectionalLight_3
+[2024.01.11-11.23.36:741][900]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevWorld.DevWorld:PersistentLevel.DirectionalLight_3
+[2024.01.11-11.23.42:531][553]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2024.01.11-11.23.42:531][553]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2024.01.11-11.23.42:531][553]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/DevWorld.DevWorld:PersistentLevel.ExponentialHeightFog_0
+[2024.01.11-11.23.42:532][553]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/DevWorld.DevWorld:PersistentLevel.ExponentialHeightFog_0
+[2024.01.11-11.23.44:563][788]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2024.01.11-11.23.44:563][788]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2024.01.11-11.23.44:564][788]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/DevWorld.DevWorld:PersistentLevel.ExponentialHeightFog_1
+[2024.01.11-11.23.44:564][788]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/DevWorld.DevWorld:PersistentLevel.ExponentialHeightFog_1
+[2024.01.11-11.24.02:019][604]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2024.01.11-11.24.02:019][604]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2024.01.11-11.24.02:019][604]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/DevWorld.DevWorld:PersistentLevel.VolumetricCloud_0
+[2024.01.11-11.24.02:019][604]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/DevWorld.DevWorld:PersistentLevel.VolumetricCloud_0
+[2024.01.11-11.24.04:417][881]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2024.01.11-11.24.04:417][881]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2024.01.11-11.24.04:418][881]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/DevWorld.DevWorld:PersistentLevel.VolumetricCloud_1
+[2024.01.11-11.24.04:418][881]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/DevWorld.DevWorld:PersistentLevel.VolumetricCloud_1
+[2024.01.11-11.24.53:100][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.11-11.24.53:107][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-11.24.53:165][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevWorld" FILE="../../../../../Development/action-rpg-course/ActionRPG/Content/DevWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.11-11.24.53:185][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.01.11-11.24.53:204][ 22]LogSavePackage: Moving output files for package: /Game/DevWorld
+[2024.01.11-11.24.53:204][ 22]LogSavePackage: Moving '../../../../../Development/action-rpg-course/ActionRPG/Saved/DevWorld71C92B4A46962CBEE10A8087E86733C8.tmp' to '../../../../../Development/action-rpg-course/ActionRPG/Content/DevWorld.umap'
+[2024.01.11-11.24.53:226][ 22]LogFileHelpers: Saving map 'DevWorld' took 0.062
+[2024.01.11-11.24.53:234][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 236 ms)
+[2024.01.11-11.24.53:235][ 22]AssetCheck: New page: Asset Save: DevWorld
+[2024.01.11-11.24.53:235][ 22]LogContentValidation: Display: Validating /Script/Engine.World /Game/DevWorld.DevWorld
