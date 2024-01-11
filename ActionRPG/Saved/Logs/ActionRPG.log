@@ -1172,3 +1172,50 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.11-12.17.24:482][  2]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2024.01.11-12.18.04:873][977]LogSlate: Took 0.049399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.01.11-12.18.04:942][978]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-12.24.48:155][446]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.01.11-12.24.48:155][446]LogWebBrowser: Deleting browser for Url=file:///D:/Games/UE_5.3/Engine/Plugins/Bridge/ThirdParty/megascans/index.html?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNjb3R0bGVlNTQ1NUBvdXRsb29rLmNvbSIsInNjb3BlIjpbImRlZmF1bHQ6dXNlciIsIm1lZ2FzY2Fuczp1c2VyIl0sImVwaWNBY2NvdW50SWQiOiJjMGZmZjA0Mjg4ZDQ0ZTM1YWE5OTBmOGM2NWE1NjRkOCIsImlzVW5yZWFsRVVMQUFjY2VwdGVkIjp0cnVlLCJpc0VwaWNBY2NvdW50Ijp0cnVlLCJxdWl4ZWxBY2NvdW50SWQiOiI3ZTNiY2ZjYy0xNjUyLTQ1YzgtODQyYi02OTY5NjY0MzhjYTYiLCJyZWFsbSI6Im1lZ2FzY2FucyIsImV1bGFzQWNjZXB0ZWQiOlsidWUiLCJlcGljX2NvbnRlbnQiXSwiaWF0IjoxNzA0OTU3MTI0LCJleHAiOjE3MDQ5ODU5MjQsImlzcyI6InF1aXhlbC1zc28tcHJvZCIsImp0aSI6IjVmMzk1ZGExLTBjMjItNDQ5OC05YTU5LTMyY2NjMmQ4NGY2MSJ9.e8FlX6aFCkjzfD5PCvJf71c-HmV_SL7A-RtOxeBpUi9ZT7GXskuIrtG6Ny4l0nNEq3Ph6kvKShvdaU6pS_mFymvYy8JrcdcP7AZswKry0S1BywCJcD5hE8L9Mc6HiPXjH6satSTlXxfODKCHeKCjtegs-bu-SpqUJ7Mo1aukcaaw_716JMTEo09pp788LtnN_RlEa8G-0Kx_Mn5WCHbcnxNOLPPFE7Tn17qlpGgzmnxJ0Mj6UL8Cv0ZmGSi9giEAqdk7lWxErudd-8wFDOoHYZwmpQQocJcPunUZspGDCFWer0DFnS9rS3Wn4uBSHODhJ6mR1v8CwHpLrCrv5OdLLg&refreshToken=OWM4MDIwYjYtOGI4Yi00MWExLWExMDAtZjExZTkyYzUwNDNj#/megascans/home?category=surface&category=grass&category=lawn.
+[2024.01.11-12.24.54:998][ 17]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.11-12.25.05:646][990]LogShaderCompilers: Display: ================================================
+[2024.01.11-12.25.05:646][990]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Total job queries 3,395, among them cache hits 129 (3.80%)
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Tracking 3,261 distinct input hashes that result in 2,329 distinct outputs (71.42%)
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: RAM used: 11.59 MiB of 819.20 MiB budget. Usage: 1.41%
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Shaders Compiled: 3,261
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Jobs assigned 3,262, completed 3,261 (99.97%)
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Average time worker was idle: 6.09 s
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Time job spent in pending queue: average 155.74 s, longest 373.00 s
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Job execution time: average 9.60 s, max 86.68 s
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Job life time (pending + execution): average 165.40 s, max 377.84
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Shader code size: average 14.475 KiB, min 140 B, max 154.367 KiB
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 419.14 s
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Jobs were issued in 363 batches (only local compilation was used), average 8.99 jobs/batch
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Average processing rate: 7.78 jobs/sec
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Total thread time: 3,127.233 s
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Total thread preprocess time: 76.597 s
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Percentage time preprocessing: 2.45%
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Effective parallelization: 7.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 21.47 sec, max 77.91 sec, min 2.09 sec)
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 14.49 sec, max 14.49 sec, min 14.49 sec)
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display:                                   FScreenSpaceShortRangeAOCS (compiled   12 times, average 8.14 sec, max 38.58 sec, min 0.37 sec)
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 7.78 sec, max 23.96 sec, min 0.34 sec)
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 4.77 sec, max 4.77 sec, min 4.77 sec)
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 13.18% of total time (compiled  128 times, average 3.22 sec, max 7.79 sec, min 0.61 sec)
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 11.40% of total time (compiled  128 times, average 2.78 sec, max 4.17 sec, min 2.00 sec)
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.66% of total time (compiled   90 times, average 2.66 sec, max 5.72 sec, min 0.33 sec)
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.83% of total time (compiled   96 times, average 1.57 sec, max 2.85 sec, min 0.38 sec)
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.61% of total time (compiled  128 times, average 1.13 sec, max 1.74 sec, min 0.70 sec)
+[2024.01.11-12.25.05:647][990]LogShaderCompilers: Display: ================================================
+[2024.01.11-12.25.34:110][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.11-12.25.34:131][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-12.25.34:236][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevWorld" FILE="../../../../../Development/action-rpg-course/ActionRPG/Content/DevWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.11-12.25.34:260][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.01.11-12.25.34:266][126]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.004700 seconds
+[2024.01.11-12.25.34:942][126]LogSavePackage: Moving output files for package: /Game/DevWorld
+[2024.01.11-12.25.34:942][126]LogSavePackage: Moving '../../../../../Development/action-rpg-course/ActionRPG/Saved/DevWorldF8C42DB443B3F45FC11A72B17560FF5C.tmp' to '../../../../../Development/action-rpg-course/ActionRPG/Content/DevWorld.umap'
+[2024.01.11-12.25.34:954][126]LogFileHelpers: Saving map 'DevWorld' took 0.720
+[2024.01.11-12.25.34:972][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 840 ms
+[2024.01.11-12.25.34:978][126]AssetCheck: New page: Asset Save: DevWorld
+[2024.01.11-12.25.34:978][126]LogContentValidation: Display: Validating /Script/Engine.World /Game/DevWorld.DevWorld
