@@ -1,3 +1,2 @@
-2024/01/11-05:20:56.679 3f98 Reusing MANIFEST D:/Development/action-rpg-course/ActionRPG/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/01/11-05:20:56.680 3f98 Recovering log #3
-2024/01/11-05:20:56.680 3f98 Reusing old log D:/Development/action-rpg-course/ActionRPG/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/01/11-06:17:21.944 5204 Creating DB D:/Development/action-rpg-course/ActionRPG/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/01/11-06:17:22.042 5204 Reusing MANIFEST D:/Development/action-rpg-course/ActionRPG/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001

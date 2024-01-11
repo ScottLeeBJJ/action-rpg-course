@@ -949,3 +949,226 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.11-12.10.30:282][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM5, Default, SM5, Editor (DDC key hash: fd23bf7db216e04cc2fd637728118907c3c45035), compiling. 
 [2024.01.11-12.11.52:934][  0]LogShaderCompilers: Display: Worker (7/8) finished batch of 10 jobs in 86.681s, FClusteredShadingPS [WorkerTime=77.905s], FClusteredShadingPS [WorkerTime=2.086s], FAmbientOcclusionPS [WorkerTime=0.532s], FAmbientOcclusionPS [WorkerTime=0.530s], FAmbientOcclusionPS [WorkerTime=0.471s], FAmbientOcclusionPS [WorkerTime=0.471s], FCapsuleShadowingCS [WorkerTime=0.272s], FAmbientOcclusionSetupPS [WorkerTime=0.082s], TSlateElementPSGrayscaleFontfalsetruefalsefalseA [WorkerTime=0.079s], FAmbientOcclusionSmoothCS [WorkerTime=0.015s]
 [2024.01.11-12.12.44:981][  0]LogDerivedDataCache: C:/Users/scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:30.827 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 15928 files in 18978 folders with total size 1326 MiB.
+[2024.01.11-12.16.44:554][  0]LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM5, Default, SM5, Editor (DDC key hash: 2f26f6b591f7b75d2efba4afa91df87afec18866), compiling. 
+[2024.01.11-12.16.44:561][  0]LogTurnkeySupport: Turnkey Device: Win64@SCOTTSPC: (Name=SCOTTSPC, Type=Computer, Status=Valid, MinAllowed=10.0.18362.0, MaxAllowed=, Current=10.0.22621.0, Flags="Device_InstallSoftwareValid")
+[2024.01.11-12.16.45:932][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.01.11-12.16.45:932][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2024.01.11-12.16.45:932][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.01.11-12.16.45:932][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2024.01.11-12.16.45:932][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.01.11-12.16.50:831][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2024.01.11-12.16.50:831][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.01.11-12.16.50:840][  0]LogUObjectArray: 21917 objects as part of root set at end of initial load.
+[2024.01.11-12.16.50:840][  0]LogUObjectAllocator: 6142568 out of 0 bytes used by permanent object pool.
+[2024.01.11-12.16.50:840][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.01.11-12.16.50:881][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.01.11-12.16.50:881][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.01.11-12.16.50:882][  0]LogLiveCoding: Display: First instance in process group "UE_ActionRPG_0x03d3d689", spawning console
+[2024.01.11-12.16.51:234][  0]LogSlate: Border
+[2024.01.11-12.16.51:234][  0]LogSlate: BreadcrumbButton
+[2024.01.11-12.16.51:234][  0]LogSlate: Brushes.Title
+[2024.01.11-12.16.51:234][  0]LogSlate: Default
+[2024.01.11-12.16.51:234][  0]LogSlate: Icons.Save
+[2024.01.11-12.16.51:234][  0]LogSlate: Icons.Toolbar.Settings
+[2024.01.11-12.16.51:234][  0]LogSlate: ListView
+[2024.01.11-12.16.51:234][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.01.11-12.16.51:234][  0]LogSlate: SoftwareCursor_Grab
+[2024.01.11-12.16.51:234][  0]LogSlate: TableView.DarkRow
+[2024.01.11-12.16.51:234][  0]LogSlate: TableView.Row
+[2024.01.11-12.16.51:234][  0]LogSlate: TreeView
+[2024.01.11-12.16.51:655][  0]LogLiveCoding: Display: Waiting for server
+[2024.01.11-12.16.52:984][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.01.11-12.16.53:910][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2024.01.11-12.16.53:912][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 1 ms
+[2024.01.11-12.16.54:069][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2024.01.11-12.16.54:069][  0]LogInit: XR: MultiViewport is Disabled
+[2024.01.11-12.16.54:069][  0]LogInit: XR: Mobile Multiview is Disabled
+[2024.01.11-12.16.55:967][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 4B82B7DA40DDA72426B420A3AA6D43E5 | Instance: 8644AA524BA8D28832FF49A815F76DDC (SCOTTSPC-18680).
+[2024.01.11-12.16.56:881][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.01.11-12.16.56:937][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.01.11-12.16.56:941][  0]LogUdpMessaging: Display: Added local interface '192.168.1.12' to multicast group '230.0.0.1:6666'
+[2024.01.11-12.16.58:969][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.01.11-12.16.58:987][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2024.01.11-12.17.00:426][  0]LogPython: Using Python 3.9.7
+[2024.01.11-12.17.05:141][  0]SourceControl: Revision control is disabled
+[2024.01.11-12.17.05:177][  0]LogUProjectInfo: Found projects:
+[2024.01.11-12.17.05:809][  0]SourceControl: Revision control is disabled
+[2024.01.11-12.17.06:011][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.01.11-12.17.06:275][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.01.11-12.17.06:275][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.01.11-12.17.08:677][  0]LogOpenImageDenoise: OIDN starting up
+[2024.01.11-12.17.09:163][  0]LogCollectionManager: Loaded 0 collections in 0.000962 seconds
+[2024.01.11-12.17.09:165][  0]LogFileCache: Scanning file cache for directory 'D:/Development/action-rpg-course/ActionRPG/Saved/Collections/' took 0.00s
+[2024.01.11-12.17.09:166][  0]LogFileCache: Scanning file cache for directory 'D:/Development/action-rpg-course/ActionRPG/Content/Developers/scott/Collections/' took 0.00s
+[2024.01.11-12.17.09:167][  0]LogFileCache: Scanning file cache for directory 'D:/Development/action-rpg-course/ActionRPG/Content/Collections/' took 0.00s
+[2024.01.11-12.17.10:157][  0]LogEngine: Initializing Engine...
+[2024.01.11-12.17.10:161][  0]LogAssetEditorSubsystem: Warning: Something went wrong while loading recent assets! Num Recent Assets  = 1, Num Recent Asset Editors = 0
+[2024.01.11-12.17.10:162][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.01.11-12.17.11:133][  0]LogTexture: Display: Waiting for textures to be ready 31/32 (/Engine/EngineMaterials/PreintegratedSkinBRDF) ...
+[2024.01.11-12.17.11:141][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.01.11-12.17.11:206][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-12.17.11:206][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-12.17.11:211][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.01.11-12.17.11:212][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.01.11-12.17.11:212][  0]LogInit: Texture streaming: Enabled
+[2024.01.11-12.17.11:316][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2024.01.11-12.17.11:352][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.01.11-12.17.11:428][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.01.11-12.17.11:443][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.01.11-12.17.11:443][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2024.01.11-12.17.11:444][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2024.01.11-12.17.11:444][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2024.01.11-12.17.11:444][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2024.01.11-12.17.11:444][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2024.01.11-12.17.11:444][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.01.11-12.17.11:444][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.01.11-12.17.11:444][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.11-12.17.11:444][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.11-12.17.11:444][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.11-12.17.11:444][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.11-12.17.11:444][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.11-12.17.11:444][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.11-12.17.11:444][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.11-12.17.11:444][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.11-12.17.11:445][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.11-12.17.11:445][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.11-12.17.11:445][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.11-12.17.11:541][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.11-12.17.11:632][  0]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (3- CORSAIR VOID ELITE Wireless Gaming Dongle)
+[2024.01.11-12.17.11:632][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.11-12.17.11:650][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.11-12.17.11:650][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.11-12.17.11:651][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.01.11-12.17.11:651][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.11-12.17.11:652][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.11-12.17.11:652][  0]LogInit: FAudioDevice initialized with ID 1.
+[2024.01.11-12.17.11:652][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.01.11-12.17.11:652][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.01.11-12.17.11:652][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2024.01.11-12.17.11:775][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.01.11-12.17.11:779][  0]LogInit: Undo buffer set to 32 MB
+[2024.01.11-12.17.11:779][  0]LogInit: Transaction tracking system initialized
+[2024.01.11-12.17.11:911][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../Development/action-rpg-course/ActionRPG/Saved/SourceControl/UncontrolledChangelists.json
+[2024.01.11-12.17.11:911][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2024.01.11-12.17.11:913][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.002092 seconds (Found 134 uncontrolled assets)
+[2024.01.11-12.17.11:953][  0]BlueprintLog: New page: Editor Load
+[2024.01.11-12.17.12:673][  0]LocalizationService: Localization service is disabled
+[2024.01.11-12.17.12:792][  0]TimingProfiler: Initialize
+[2024.01.11-12.17.12:792][  0]TimingProfiler: OnSessionChanged
+[2024.01.11-12.17.12:792][  0]LoadingProfiler: Initialize
+[2024.01.11-12.17.12:792][  0]LoadingProfiler: OnSessionChanged
+[2024.01.11-12.17.12:793][  0]NetworkingProfiler: Initialize
+[2024.01.11-12.17.12:793][  0]NetworkingProfiler: OnSessionChanged
+[2024.01.11-12.17.12:793][  0]MemoryProfiler: Initialize
+[2024.01.11-12.17.12:793][  0]MemoryProfiler: OnSessionChanged
+[2024.01.11-12.17.14:738][  0]LogFileCache: Scanning file cache for directory 'D:/Development/action-rpg-course/ActionRPG/Content/' took 0.00s
+[2024.01.11-12.17.16:002][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.01.11-12.17.16:943][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2024.01.11-12.17.17:061][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.01.11-12.17.17:063][  0]SourceControl: Revision control is disabled
+[2024.01.11-12.17.17:063][  0]LogUnrealEdMisc: Loading editor; pre map load, took 436.550
+[2024.01.11-12.17.17:063][  0]Cmd: MAP LOAD FILE="../../../../../Development/action-rpg-course/ActionRPG/Content/DevWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.01.11-12.17.17:063][  0]LightingResults: New page: Lighting Build
+[2024.01.11-12.17.17:066][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-12.17.17:066][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-12.17.17:066][  0]MapCheck: New page: Map Check
+[2024.01.11-12.17.17:066][  0]LightingResults: New page: Lighting Build
+[2024.01.11-12.17.17:069][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.11-12.17.17:072][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.11-12.17.17:227][  0]LogMaterial: LandscapeMaterialInstanceConstant_0-SM5-Default: MATSM_DA9E5626FCAE01590760E73DF088B4B4_PCD3D_SM5_-86156035__BC5N_NoCCBN_NoIris_DEV_SL_LWC2_PreExp_DBuf_UnInt_DXC0_VFO_SKYATM_SKYHF_SLWSMDLT_gs1_sdct_VT-0-0-1-0_MIN_DF_VED_Aniso-1_ComprOodle_Compr2_Lev4_ExclNonPipSh-1_LWC-2097152_347391141DB6FCC63A5C44EA751315CBC3EF5DDED_Num_SM5_FL_0000000d_MFA_00000008_V_B6A0A753ED62499D8F30931E61FCAB05_0_DB3E993F4E2E98B305AD13B92D8C5DA5_A05E64F5EBD44C64BD24277E1DB8EBB792FC705C___TShadowDepthPSPixelShadowDepth_PerspectiveCorrect0_0_0157074BADCD0F71193BA1602A4730997CEB94DBC1D3D5B5AF4A6D9ADE7391C36E24BD5A02F4BAF61_FLumenCardPS<false>0_0_0F893AB913B72D6F2EADEB1B288DEE74C5518208DC200DC679A410C1D8AF12A00F0044876007851BC_TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect0_0_0157074BADCD0F71193BA1602A4730997CEB94DBC5F6D284012F74DD2CFC45AAEF7606EB9D574CE14_TLightMapDensityPSTLightMapPolicyHQ0_0_0A14D61579922870AF52724F4F530914A2A7883CC6F8EDE90BA70B7A37D281661EEE0A46689F58DC5_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight0_0_04061A80E3F6DC98E3082CEC3E2FA0B9E9A1F95B5FDA2E61854F80E0F91AE4D21CD0BB79DEC508B58_TBasePassPSTLightMapPolicyLQSkylight0_0_04061A80E3F6DC98E3082CEC3E2FA0B9E9A1F95B55D7C57B710379F5E917839EBE882255DAA29AF8C_FLandscapeGrassWeightVS0_0_097BCE1BBC9AC8E24CA16E0FEC46B32F5E45E670B47C0690A66AEBFB62A3248327AB8B3401F67DA0D_TLightMapDensityVSFNoLightMapPolicy0_0_0A14D61579922870AF52724F4F530914A2A7883CCCE92005F85D160B7FACC465666DB47AD63FF14F7_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ0_0_04061A80E3F6DC98E3082CEC3E2FA0B9E9A1F95B58A2DFEB19681995675B59DD9556978C705446847_FHitProxyVS0_0_08362DBD52BECB4E0FD5ABE86EFB06D7AA93F64EA52D62CB854026D5374EC4E8A00F09A8B1D3302B8_FHitProxyPS0_0_0A7E31616FF6F0D1209746E91849EC74F613AA5E3591AC01CFB8D5107B679B4AC4E6A2D25CEE2821A_FLandscapeGrassWeightPS0_0_097BCE1BBC9AC8E24CA16E0FEC46B32F5E45E670BB0B2C106151A19D437E6A81208418E180C9A94FC_TBasePassPSFNoLightMapPolicy0_0_04061A80E3F6DC98E3082CEC3E2FA0B9E9A1F95B5AA7AFF0410210797DA8DBFDCE4DCE7BD73648BF2_TShadowDepthVSVertexShadowDepth_OutputDepth0_0_0B87E7DDCE68EDBF6C2439E61E523D8271E02575BF87CEE5C05DBEF9DC24EE7C0F6CF60618ED0AF73_FLandscapePhysicalMaterialPS0_0_05691E8B79C703518C711A3270BF812967ADCFFF0EB9F96523E4AC1F2529D86D76BDF869A153FCD4A_TLightMapDensityVSFDummyLightMapPolicy0_0_0A14D61579922870AF52724F4F530914A2A7883CC7B900AFE3BA5C55A32FF9BDFB44D3099D0056480_FLumenCardVS0_0_0517EB8CB40B8A65052186B653019754368D101DBCC43E529207B75738B69C90E919763AEC6FA2C8A_TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy0_0_03357C0E2E8E4C077CA4AAF77C1E0BC15FAFC194E10A5156EA848D21CFBF57CE1492E504233A65909_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight0_0_04061A80E3F6DC98E3082CEC3E2FA0B9E9A1F95B5825624867C61F3DE53BFA02233D16BD0B82A683D_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy0_0_04061A80E3F6DC98E3082CEC3E2FA0B9E9A1F95B5899CC7EE1C80A173D8CCB78A28FD236F5F2A6D59_TBasePassPSTLightMapPolicyHQ0_0_04061A80E3F6DC98E3082CEC3E2FA0B9E9A1F95B5898AEA5165589EBF175921373DEB413FB7F34F22_TLightMapDensityPSFDummyLightMapPolicy0_0_0A14D61579922870AF52724F4F530914A2A7883CCED5721127772996308073D8F8E9736D48C4F7391_TBasePassPSFCachedPointIndirectLightingPolicySkylight0_0_04061A80E3F6DC98E3082CEC3E2FA0B9E9A1F95B5B3D33D9C4C484723E672E95931A0FA27C9E8BBF0_TBasePassVSFCachedPointIndirectLightingPolicy0_0_03357C0E2E8E4C077CA4AAF77C1E0BC15FAFC194E63D4D5DEDB79A8344B5CE12C0658C647A5BAE06B_TBasePassPSFCachedPointIndirectLightingPolicy0_0_04061A80E3F6DC98E3082CEC3E2FA0B9E9A1F95B5141E3C1005BE613F467BBA75C870B8B0ABB5922D_FVelocityPS0_0_0EBC0D891FAF1DEEBA891D9BAEDF3132411F984AD424AC0BEE559BE53397AB3C2FC130F4C90538CDB_TBasePassPSFCachedVolumeIndirectLightingPolicy0_0_04061A80E3F6DC98E3082CEC3E2FA0B9E9A1F95B518CE64D2B7609F1F0EE3F172AE7FC4A9A40D6F19_TShadowDepthVSVertexShadowDepth_PerspectiveCorrect0_0_0B87E7DDCE68EDBF6C2439E61E523D8271E02575B9396F3B9CB091423F82674523BC72504438631DE_TBasePassPSFCachedVolumeIndirectLightingPolicySkylight0_0_04061A80E3F6DC98E3082CEC3E2FA0B9E9A1F95B526DE51AC3872760C99EBD5D6428B8429D8654B09_TLightMapDensityPSFNoLightMapPolicy0_0_0A14D61579922870AF52724F4F530914A2A7883CC4E0A359E93DD037794AD9F3BFF2229E192443465_TLightMapDensityVSTLightMapPolicyLQ0_0_0A14D61579922870AF52724F4F530914A2A7883CC74E0F86ABDC86BABD4121E29A6C471D25795F1CD_TBasePassVSTLightMapPolicyHQ0_0_03357C0E2E8E4C077CA4AAF77C1E0BC15FAFC194E5C554DFD6561B915DE45D241DDB26421D7D92563_FLandscapePhysicalMaterialVS0_0_05691E8B79C703518C711A3270BF812967ADCFFF011D5D4108CFDB5B6CBE8F3ADC4BE30C19859186B_TBasePassPSFNoLightMapPolicySkylight0_0_04061A80E3F6DC98E3082CEC3E2FA0B9E9A1F95B523AEF5FC38580B9DD682422255AA9EC62059678A_TBasePassVSFCachedVolumeIndirectLightingPolicy0_0_03357C0E2E8E4C077CA4AAF77C1E0BC15FAFC194E27C635E797CBD2619F0D39BEE7CD18E130F05E26_TShadowDepthPSPixelShadowDepth_OnePassPointLight0_0_0157074BADCD0F71193BA1602A4730997CEB94DBC3189543DEB1E5450A6398EF5AC45B9A88DC3459B_TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ0_0_03357C0E2E8E4C077CA4AAF77C1E0BC15FAFC194E6EF60DE3C0CA277D8FBECBFCB0B5E02D0DFD2B1A_TShadowDepthVSVertexShadowDepth_OnePassPointLight0_0_0B87E7DDCE68EDBF6C2439E61E523D8271E02575B95DED9C73DC5F223F091004CF57334C099017CF0_TBasePassPSTLightMapPolicyLQ0_0_04061A80E3F6DC98E3082CEC3E2FA0B9E9A1F95B573C1FA12A57DB2481B209BC117CF77EAF777E48D_TLightMapDensityPSTLightMapPolicyLQ0_0_0A14D61579922870AF52724F4F530914A2A7883CC60462DA9E455B94945F102A0576E9055D6B63400_TBasePassVSTLightMapPolicyLQ0_0_03357C0E2E8E4C077CA4AAF77C1E0BC15FAFC194E15BE5EAD592CA3B8CD12BA18828DD2294877D9CA_TLightMapDensityVSTLightMapPolicyHQ0_0_0A14D61579922870AF52724F4F530914A2A7883CCE6479A49666B1424EE545AF64EE0BE2ED2964B8F_FDebugViewModePS0_0_0D694188852AEC46568FAF0AF1AAE78FE4556CC0E0074CFCF9A67BE69CCE53140F9193C858B3006EA_TBasePassPSTLightMapPolicyHQSkylight0_0_04061A80E3F6DC98E3082CEC3E2FA0B9E9A1F95B534F240AFBCA6DC4F1885665AD7EBA74031254A3C_TDepthOnlyVS<false>0_0_0AEA09AAE032894C0CA16740B20A6CEFDB309B6F2B419F3F2046DFF016D3871BF8CD05BB9BBEB725B_FVelocityVS0_0_0EBC0D891FAF1DEEBA891D9BAEDF3132411F984ADFAAC9A9CF81E62F8A1951C16ACC22C4E57F44BC0_FDebugViewModeVS0_0_0A11C87AD7A44E3C1D703A9F7E23CF5E465363A2096E81C67446F25BC2AFD5BB735073ABD7EC8AFCB_TBasePassVSFNoLightMapPolicy0_0_03357C0E2E8E4C077CA4AAF77C1E0BC15FAFC194EDDD2F7DEF5574DB43546D80EEC3EF30B7E0E7148_VelocityPipeline13A1421E3FA6521B73FB379DA09ED7BBEB17D12A_DepthNoPixelPipelineAEA09AAE032894C0CA16740B20A6CEFDB309B6F2_FLandscapeXYOffsetVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FLandscapeVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FLandscapeFixedGridVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C13F5F45F5620EF6411E27211E3D675CEA50B38DFBEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE3F5F45F5620EF6411E27211E3D675CEA50B38DFB3F5F45F5620EF6411E27211E3D675CEA50B38DFB_FLandscapeTileVertexFactoryF93AC2298DAB32583F62E042E13F0BF24F1C98C1B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE213910141414444414441444141414141444447401010101010131113001010142446451214141414240241414141414131330444444404444444444442434141414141510100031313131233131434341434131423121444044444131313131444031010101510101010101303434344414444444441415151510103001013115161616160240404040404040404040404040404043434343434444444444444444404040404040404444444440404040444444444444344444444444422144414144444442414141444144414141414131313131313131414144434444444441414141414141414141414143434344444444444443444044414141414441414141414143414141444141414144444144414131414324444444444141214343414141314141414141224143434242424242424143434341434141444131313131314442444121414431313141444444434121212121243441414444444414222212164421022121212121314444444444444440510151015101164044441415005151515161616161610101010101515112101001101410101010101010101015101010101010304451011010101010101010101010101010101010101010101010600140404441404042121313134414101010101610101010101010131010002431313141616161101010121010101015101200444444444043424044423151014044444444444443033131312143314040404040434144433143314443314331434143414331433131433143214241314141413131441114424644444404446444444444404440141010151015101510011010101010101010101010101010000140404441404021010101011010101010101040442424141313100044444444444444444444444444444444444444444444444444444444444444444444444444441010121213232222221210101010100001010101014444424241210101010101010101414101015101010101010044444414151510004040404040404040404040404040404343434343434344444343434340404040404040434343434040404044444242444434444444444242214141414444444241414143414141414141413131313131313141414443444444444141414141414141414141414343434444444444444344404441414141444141414141414341414144414141414444414141413141432144444444414121434341414131414141414122414343424242424242414343434143414144413131313131444244412141443131314144444443412121212124314141444444440101515151515151515151510101010101010101015151515101010151015101510151015101510101010101010151016151015101510151015101510151015101510151013131515151510151015101510151010151015101616144415101445101016161716143431013131313131313432422121314141410101010000000110000001300000013000000130000001300000013000000130000001400000013000000130000000D0000000900000014000000100000000800000009000000080000002500000010000000100000001300000009000000080000000800000010000000100000001000000010000000100000000800000008000000080000001000000010000000D80000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001400000010000000080000000800000008000000130000000800000010000000080000000800000008000000080000000800000013000000100000001400000012000000130000001300000013000000130000001300000013000000130000000D0000001300000008000000100000001100000009000000080000000900000008000000080000001700000009000000080000000900000008000000090000000800000009000000080000000C000000090000000800000009000000090000000900000009000000090000000900000009000000080000000800000008000000080000000800000013000000100000001000000010000000170000001000000010000000100000001000000009000000090000000900000009000000100000001000000010000000100000001000000010000000080000000B00000013000000130000000900000009000000090000001400000008000000100000000D0000000C0000001000000008000000080000002D00000010000000100000001000000010000000100000001000000010000000090000000900000008000000080000000800000008000000130000000E0000000900000009000000090000000900000009000000090000000900000009000000090000000900000009000000090000000C000000080000000C00000013000000100000001000000010000000100000001000000010000000100000000D0000000F00000009000000080000000900000008000000090000000C000000080000001300000013000000260000000F000000140000000900000009000000090000000900000009000000100000001D000000130000001300000013000000130000001300000009000000080000000C0000000800000009000000080000000900000008000000140000001400000008000000100000000900000008000000130000000800000010000000080000000800000041010000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000140000001000000010000000100000001000000009000000433AFC833894B7681A1D3DDBA35F7F5A9509A89900000000000000000000000000000000000000006E2AD9D86FE73F9DF5783D7E68BD0915331357DA_001_101_5;
+[2024.01.11-12.17.17:227][  0]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5, Editor (DDC key hash: bb8c5c3540fc4816baa8c5518b649735f830254c), compiling. Is special engine material.
+[2024.01.11-12.17.17:304][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'DevWorld'.
+[2024.01.11-12.17.17:304][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-12.17.17:304][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-12.17.17:304][  0]LogAIModule: Creating AISystem for world DevWorld
+[2024.01.11-12.17.17:837][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.11-12.17.17:850][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.01.11-12.17.17:851][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.11-12.17.17:851][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2024.01.11-12.17.17:977][  0]LogAssetRegistry: Display: Asset registry cache written as 16.3 MiB to ../../../../../Development/action-rpg-course/ActionRPG/Intermediate/CachedAssetRegistry_*.bin
+[2024.01.11-12.17.17:988][  0]LogUnrealEdMisc: Total Editor Startup Time, took 437.476
+[2024.01.11-12.17.17:988][  0]LogShaderCompilers: Display: ================================================
+[2024.01.11-12.17.17:988][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.11-12.17.17:988][  0]LogShaderCompilers: Display: Total job queries 3,299, among them cache hits 129 (3.91%)
+[2024.01.11-12.17.17:988][  0]LogShaderCompilers: Display: Tracking 3,170 distinct input hashes that result in 2,253 distinct outputs (71.07%)
+[2024.01.11-12.17.17:988][  0]LogShaderCompilers: Display: RAM used: 11.12 MiB of 819.20 MiB budget. Usage: 1.36%
+[2024.01.11-12.17.17:988][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.11-12.17.17:988][  0]LogShaderCompilers: Display: Shaders Compiled: 3,170
+[2024.01.11-12.17.17:988][  0]LogShaderCompilers: Display: Jobs assigned 3,170, completed 3,170 (100%)
+[2024.01.11-12.17.17:988][  0]LogShaderCompilers: Display: Average time worker was idle: 0.05 s
+[2024.01.11-12.17.17:988][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 160.25 s, longest 373.00 s
+[2024.01.11-12.17.17:988][  0]LogShaderCompilers: Display: Job execution time: average 9.32 s, max 86.68 s
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 169.56 s, max 377.84
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display: Shader code size: average 14.325 KiB, min 140 B, max 154.367 KiB
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 378.75 s
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display: Jobs were issued in 335 batches (only local compilation was used), average 9.46 jobs/batch
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display: Average processing rate: 8.37 jobs/sec
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display: Total thread time: 2,939.637 s
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display: Total thread preprocess time: 73.68 s
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display: Percentage time preprocessing: 2.51%
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display: Effective parallelization: 7.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 21.47 sec, max 77.91 sec, min 2.09 sec)
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 14.49 sec, max 14.49 sec, min 14.49 sec)
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display:                                   FScreenSpaceShortRangeAOCS (compiled   12 times, average 8.14 sec, max 38.58 sec, min 0.37 sec)
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 7.78 sec, max 23.96 sec, min 0.34 sec)
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display:                                       FVisualizeLumenSceneCS (compiled   24 times, average 4.77 sec, max 13.64 sec, min 0.26 sec)
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 14.02% of total time (compiled  128 times, average 3.22 sec, max 7.79 sec, min 0.61 sec)
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 12.12% of total time (compiled  128 times, average 2.78 sec, max 4.17 sec, min 2.00 sec)
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display:                                             FDeferredLightPS - 8.15% of total time (compiled   90 times, average 2.66 sec, max 5.72 sec, min 0.33 sec)
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 5.14% of total time (compiled   96 times, average 1.57 sec, max 2.85 sec, min 0.38 sec)
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.90% of total time (compiled  128 times, average 1.13 sec, max 1.74 sec, min 0.70 sec)
+[2024.01.11-12.17.17:989][  0]LogShaderCompilers: Display: ================================================
+[2024.01.11-12.17.18:135][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.01.11-12.17.18:135][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.01.11-12.17.18:135][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.01.11-12.17.18:135][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.01.11-12.17.18:135][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.01.11-12.17.18:135][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.01.11-12.17.18:159][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.11-12.17.18:168][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.11-12.17.18:175][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.11-12.17.18:184][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.11-12.17.18:219][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.01.11-12.17.18:219][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.01.11-12.17.18:346][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.11-12.17.18:409][  0]LogPakFile: Display: Mounted Pak file 'D:/Games/UE_5.3/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.01.11-12.17.18:409][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.11-12.17.18:476][  0]LogPakFile: Display: Mounted Pak file 'D:/Games/UE_5.3/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.01.11-12.17.18:476][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.11-12.17.18:504][  0]LogPakFile: Display: Mounted Pak file 'D:/Games/UE_5.3/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.01.11-12.17.18:504][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.11-12.17.18:531][  0]LogPakFile: Display: Mounted Pak file 'D:/Games/UE_5.3/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.01.11-12.17.18:533][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.11-12.17.18:563][  0]LogPakFile: Display: Mounted Pak file 'D:/Games/UE_5.3/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.01.11-12.17.18:563][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.11-12.17.18:587][  0]LogPakFile: Display: Mounted Pak file 'D:/Games/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.01.11-12.17.18:587][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.11-12.17.18:611][  0]LogPakFile: Display: Mounted Pak file 'D:/Games/UE_5.3/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.01.11-12.17.18:612][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.11-12.17.18:636][  0]LogPakFile: Display: Mounted Pak file 'D:/Games/UE_5.3/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.01.11-12.17.18:636][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.11-12.17.18:659][  0]LogPakFile: Display: Mounted Pak file 'D:/Games/UE_5.3/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.01.11-12.17.18:659][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.11-12.17.18:697][  0]LogPakFile: Display: Mounted Pak file 'D:/Games/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.01.11-12.17.21:669][  0]LogCEFBrowser: CEF GPU acceleration enabled
+[2024.01.11-12.17.21:872][  0]LogSlate: Took 0.020926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.01.11-12.17.21:910][  0]LogSlate: Took 0.035675 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.01.11-12.17.21:926][  0]LogSlate: Took 0.015931 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.01.11-12.17.21:945][  0]LogViewport: Scene viewport resized to 1496x867, mode Windowed.
+[2024.01.11-12.17.22:297][  0]LogConsoleManager: Warning: Console variable 'r.ShaderCompiler.JobCache' used in the render thread. Rendering artifacts could happen. Use ECVF_RenderThreadSafe or don't use in render thread.
+[2024.01.11-12.17.22:812][  0]LogStall: Startup...
+[2024.01.11-12.17.22:815][  0]LogStall: Startup complete.
+[2024.01.11-12.17.22:888][  0]LogLoad: (Engine Initialization) Total time: 442.38 seconds
+[2024.01.11-12.17.22:889][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.01.11-12.17.23:005][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.01.11-12.17.23:079][  0]LogSlate: Took 0.021529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.01.11-12.17.23:918][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2024.01.11-12.17.23:938][  1]Running Python start-up script 'D:/Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.775911 secs
+[2024.01.11-12.17.23:968][  1]LogAssetRegistry: AssetRegistryGather time 2.1466s: AssetDataDiscovery 1.0771s, AssetDataGather 1.0141s, StoreResults 0.0555s.
+[2024.01.11-12.17.24:085][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2024.01.11-12.17.24:482][  2]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.01.11-12.18.04:873][977]LogSlate: Took 0.049399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.11-12.18.04:942][978]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
