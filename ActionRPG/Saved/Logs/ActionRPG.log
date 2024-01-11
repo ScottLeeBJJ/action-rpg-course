@@ -1253,3 +1253,87 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.11-11.24.53:234][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 236 ms)
 [2024.01.11-11.24.53:235][ 22]AssetCheck: New page: Asset Save: DevWorld
 [2024.01.11-11.24.53:235][ 22]LogContentValidation: Display: Validating /Script/Engine.World /Game/DevWorld.DevWorld
+[2024.01.11-11.27.14:281][504]LogEditorViewport: Clicking Background
+[2024.01.11-11.28.08:079][141]LogEditorViewport: Clicking Background
+[2024.01.11-11.28.22:020][775]LogEditorViewport: Clicking Background
+[2024.01.11-11.29.26:134][447]LogEditorViewport: Clicking Background
+[2024.01.11-11.29.45:698][656]Cmd: DELETE
+[2024.01.11-11.29.45:706][656]Cmd: ACTOR DELETE
+[2024.01.11-11.29.46:026][656]LogEditorActor: Deleted Actor: DirectionalLight
+[2024.01.11-11.29.46:030][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.01.11-11.29.46:036][656]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2024.01.11-11.29.48:612][900]Cmd: DELETE
+[2024.01.11-11.29.48:613][900]Cmd: ACTOR DELETE
+[2024.01.11-11.29.48:614][900]LogEditorActor: Deleted Actor: DirectionalLight
+[2024.01.11-11.29.48:618][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.01.11-11.29.48:620][900]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.01.11-11.29.54:989][585]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.01.11-11.29.54:989][585]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.01.11-11.29.54:990][585]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevWorld.DevWorld:PersistentLevel.DirectionalLight_4
+[2024.01.11-11.29.54:990][585]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevWorld.DevWorld:PersistentLevel.DirectionalLight_4
+[2024.01.11-11.29.56:357][740]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.01.11-11.29.56:357][740]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.01.11-11.29.56:359][740]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevWorld.DevWorld:PersistentLevel.DirectionalLight_5
+[2024.01.11-11.29.56:359][740]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/DevWorld.DevWorld:PersistentLevel.DirectionalLight_5
+[2024.01.11-11.30.14:191][622]LogEditorViewport: Clicking Background
+[2024.01.11-11.30.37:746][376]Cmd: DUPLICATE
+[2024.01.11-11.30.37:746][376]Cmd: ACTOR DUPLICATE
+[2024.01.11-11.30.47:902][546]LogEditorViewport: Clicking Background
+[2024.01.11-11.31.16:418][692]LogEditorViewport: Clicking Background
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: 0000067499F80A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: 0000067499F80A00: libcurl info message cache 0 (Found bundle for host: 0x6747e960000 [serially])
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: 0000067499F80A00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: 0000067499F80A00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: 0000067499F80A00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: 0000067499F80A00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: 0000067499F80A00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: 0000067499F80A00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: 0000067499F80A00: libcurl info message cache 7 (Closing connection)
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: 0000067499F80A00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: 0000067499F80A00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: 0000067499F80A00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: 0000067499F80A00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87B636AF-4D9C-DDD4-9D24-4DB38F3FBB0C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=b3a639b4419d0ba1c8647c90bc745db1%7Cc0fff04288d44e35aa990f8c65a564d8%7C8bc18e41-458c-45ff-a38e-4eaa1827713e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: 0000067499F80A00: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: 0000067499F80A00: libcurl info message cache 13 (Closing connection)
+[2024.01.11-11.31.17:035][765]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87B636AF-4D9C-DDD4-9D24-4DB38F3FBB0C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=b3a639b4419d0ba1c8647c90bc745db1%7Cc0fff04288d44e35aa990f8c65a564d8%7C8bc18e41-458c-45ff-a38e-4eaa1827713e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.01.11-11.31.38:294][717]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.01.11-11.31.40:204][722]Could not fetch the local adapter addresses
+[2024.01.11-11.31.40:204][722]LogUdpMessaging: Display: Added local interface '0.0.0.0' to multicast group '230.0.0.1:6666'
+[2024.01.11-11.31.54:964][767]LogHttp: Warning: 0000067499F87D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.01.11-11.31.54:964][767]LogHttp: Warning: 0000067499F87D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.01.11-11.31.54:964][767]LogHttp: Warning: 0000067499F87D00: libcurl info message cache 1 (Closing connection)
+[2024.01.11-11.31.54:964][767]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87B636AF-4D9C-DDD4-9D24-4DB38F3FBB0C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=b3a639b4419d0ba1c8647c90bc745db1%7Cc0fff04288d44e35aa990f8c65a564d8%7C8bc18e41-458c-45ff-a38e-4eaa1827713e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.01.11-11.32.01:964][787]LogEditorViewport: Clicking Background
+[2024.01.11-11.32.54:887][851]LogHttp: Warning: 0000067499F86400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.01.11-11.32.54:887][851]LogHttp: Warning: 0000067499F86400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.01.11-11.32.54:887][851]LogHttp: Warning: 0000067499F86400: libcurl info message cache 1 (Closing connection)
+[2024.01.11-11.32.54:888][851]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B87B636AF-4D9C-DDD4-9D24-4DB38F3FBB0C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=b3a639b4419d0ba1c8647c90bc745db1%7Cc0fff04288d44e35aa990f8c65a564d8%7C8bc18e41-458c-45ff-a38e-4eaa1827713e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.01.11-11.33.32:673][966]LogEditorViewport: Clicking Background
+[2024.01.11-11.33.33:724][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.11-11.33.33:731][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-11.33.33:774][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevWorld" FILE="../../../../../Development/action-rpg-course/ActionRPG/Content/DevWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.11-11.33.33:795][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.01.11-11.33.33:799][ 90]LogSavePackage: Moving output files for package: /Game/DevWorld
+[2024.01.11-11.33.33:799][ 90]LogSavePackage: Moving '../../../../../Development/action-rpg-course/ActionRPG/Saved/DevWorldDC33D5384361B92B536F3084F4C44AE4.tmp' to '../../../../../Development/action-rpg-course/ActionRPG/Content/DevWorld.umap'
+[2024.01.11-11.33.33:804][ 90]LogFileHelpers: Saving map 'DevWorld' took 0.030
+[2024.01.11-11.33.33:808][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 313 ms)
+[2024.01.11-11.33.33:808][ 90]AssetCheck: New page: Asset Save: DevWorld
+[2024.01.11-11.33.33:808][ 90]LogContentValidation: Display: Validating /Script/Engine.World /Game/DevWorld.DevWorld
+[2024.01.11-11.33.58:983][840]LogEditorViewport: Clicking Background
+[2024.01.11-11.34.08:769][458]LogEditorViewport: Clicking Background
+[2024.01.11-11.37.23:721][298]LogEditorViewport: Clicking Background
+[2024.01.11-11.38.14:761][271]Cmd: TRANSACTION UNDO
+[2024.01.11-11.38.14:761][271]LogEditorTransaction: Undo Scale Elements
+[2024.01.11-11.38.22:963][955]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.11-11.39.04:618][432]LogEditorViewport: Clicking Background
+[2024.01.11-11.39.43:167][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.01.11-11.39.43:177][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-11.39.43:218][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevWorld" FILE="../../../../../Development/action-rpg-course/ActionRPG/Content/DevWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.11-11.39.43:255][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.01.11-11.39.43:258][637]LogSavePackage: Moving output files for package: /Game/DevWorld
+[2024.01.11-11.39.43:258][637]LogSavePackage: Moving '../../../../../Development/action-rpg-course/ActionRPG/Saved/DevWorld88D5ED7F436106C0DBCB50B934AD0F41.tmp' to '../../../../../Development/action-rpg-course/ActionRPG/Content/DevWorld.umap'
+[2024.01.11-11.39.43:264][637]LogFileHelpers: Saving map 'DevWorld' took 0.046
+[2024.01.11-11.39.43:268][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 404 ms)
+[2024.01.11-11.39.43:269][637]AssetCheck: New page: Asset Save: DevWorld
+[2024.01.11-11.39.43:269][637]LogContentValidation: Display: Validating /Script/Engine.World /Game/DevWorld.DevWorld
+[2024.01.11-11.40.03:872][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
